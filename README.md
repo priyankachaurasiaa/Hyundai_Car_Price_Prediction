@@ -22,15 +22,12 @@ Our project serves two main objectives:
 
 
 ## Insights
+ 
+![insights](https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/ce5f8237-3608-41f3-bff5-5fdea2e2a675)
 
-- **Insight 1**: ![insights](https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/ce5f8237-3608-41f3-bff5-5fdea2e2a675)
+![insights_2](https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/73fcdfa5-6a50-4113-9114-4e2d6e30b2a8)
 
-
-- **Insight 2**: ![insights_2](https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/73fcdfa5-6a50-4113-9114-4e2d6e30b2a8)
-
-- **Insight 3**: ![insights_3]<img width="591" alt="image" src="https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/ff29a56e-132c-41cb-8fa4-19e84d139745">
-
-
+<img width="591" alt="image" src="https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/ff29a56e-132c-41cb-8fa4-19e84d139745">
 
 ## Description
 
