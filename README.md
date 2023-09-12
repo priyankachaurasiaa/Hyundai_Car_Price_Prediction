@@ -31,33 +31,33 @@ Our project serves two main objectives:
 
 ## Description
 
-**Objective**: Our primary objective is to build a Linear Regression Machine Learning model to predict used car prices based on various features.
+- **Objective**: Our primary objective is to build a Linear Regression Machine Learning model to predict used car prices based on various features.
 
-**Data Collection**: We collected data from spinny.com, a reputable service provider in the field, to obtain a reasonable and large dataset.
+- **Data Collection**: We collected data from spinny.com, a reputable service provider in the field, to obtain a reasonable and large dataset.
 
-**Data Cleaning & Feature Engineering**: The dataset underwent thorough cleaning to handle null values, duplicates, and noise. We also generated 14 meaningful features through exploratory data analysis (EDA) and feature generation techniques.
+- **Data Cleaning & Feature Engineering**: The dataset underwent thorough cleaning to handle null values, duplicates, and noise. We also generated 14 meaningful features through exploratory data analysis (EDA) and feature generation techniques.
 
-**Final Data Preparation**: The dataset was prepared for training the model through feature selection, encoding, and scaling.
+- **Final Data Preparation**: The dataset was prepared for training the model through feature selection, encoding, and scaling.
 
-**Independent Features**: The independent features used for prediction include model, body type, fuel type, transmission, model year, km driven, mileage, seating capacity, ground clearance, boot space, fuel tank capacity, and max power.
+- **Independent Features**: The independent features used for prediction include model, body type, fuel type, transmission, model year, km driven, mileage, seating capacity, ground clearance, boot space, fuel tank capacity, and max power.
 
-**Data Analysis and Visualization**: We conducted data analysis using group-by, pivot tables, and aggregation techniques. The data was visualized to gain insights.
+- **Data Analysis and Visualization**: We conducted data analysis using group-by, pivot tables, and aggregation techniques. The data was visualized to gain insights.
 
-**Training**: The dataset was split into training and testing sets, and a Linear Regression model was trained.
+- **Training**: The dataset was split into training and testing sets, and a Linear Regression model was trained.
 
-**Testing**: Predicted values for prices were generated and model accuracy was evaluated using R2 score and Adjusted R2 score (85% and 84%, respectively).
+- **Testing**: Predicted values for prices were generated and model accuracy was evaluated using R2 score and Adjusted R2 score (85% and 84%, respectively).
 
-**Predicting**: The model can be used by buyers and sellers to predict the prices of pre-owned cars using hypothetical features.
+- **Predicting**: The model can be used by buyers and sellers to predict the prices of pre-owned cars using hypothetical features.
 
 ## Conclusion
 
-**Error Distribution**: After training our model, we analyzed the difference between the test and predicted values using a distribution plot. The errors followed a normal distribution with a mean close to zero, indicating the accuracy of our predictions.
+- **Error Distribution**: After training our model, we analyzed the difference between the test and predicted values using a distribution plot. The errors followed a normal distribution with a mean close to zero, indicating the accuracy of our predictions.
 
-**Scatter Plot Analysis**: Scatter plots of test points against predicted points showed a strong correlation, indicating that our model effectively captures data patterns and trends.
+- **Scatter Plot Analysis**: Scatter plots of test points against predicted points showed a strong correlation, indicating that our model effectively captures data patterns and trends.
 
-**Performance Metrics**: We evaluated the model's performance using metrics such as Root Mean Square Error (RMSE), R2 Score, and Mean Square Error (MSE). Our model achieved an RMSE of 1.36 and an MSE of 1.97 for the test and predicted test values, indicating high accuracy.
+- **Performance Metrics**: We evaluated the model's performance using metrics such as Root Mean Square Error (RMSE), R2 Score, and Mean Square Error (MSE). Our model achieved an RMSE of 1.36 and an MSE of 1.97 for the test and predicted test values, indicating high accuracy.
 
-**Accuracy Score**: We adapted the accuracy score, typically used for classification tasks, to assess our regression model's accuracy. Our model achieved an accuracy score of 93.4%, highlighting its effectiveness in predicting used car prices.
+- **Accuracy Score**: We adapted the accuracy score, typically used for classification tasks, to assess our regression model's accuracy. Our model achieved an accuracy score of 93.4%, highlighting its effectiveness in predicting used car prices.
 
 ## Challenges
 
