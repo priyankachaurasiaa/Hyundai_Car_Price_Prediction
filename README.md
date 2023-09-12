@@ -82,3 +82,7 @@ The model holds great potential for future applications:
 - **Selling Assistance**: Sellers can use the model to set reasonable prices based on their car's characteristics, attracting potential buyers more effectively.
 
 - **Financial Planning**: Accurate price predictions aid in financial planning, allowing individuals to make informed decisions about selling their car and its impact on their overall financial situation.
+
+## Contact Information
+
+- For inquiries or further information, please contact Priyanka_Chaurasia at priyankachaurasia7050@gmail.com
