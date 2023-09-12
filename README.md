@@ -16,15 +16,15 @@ Our project serves two main objectives:
 
 ## Dataset
 
-- **Screenshot**: ![dataset](https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/bb0fe2ed-9a27-41c9-8328-46235f085097)
+![dataset](https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/bb0fe2ed-9a27-41c9-8328-46235f085097)
 
 
 ## Insights
 
-- **Screenshot 1**: ![insights](https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/ce5f8237-3608-41f3-bff5-5fdea2e2a675)
+- **Insight 1**: ![insights](https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/ce5f8237-3608-41f3-bff5-5fdea2e2a675)
 
 
-- **Screenshot 2**: ![insights_2](https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/73fcdfa5-6a50-4113-9114-4e2d6e30b2a8)
+- **Insight 2**: ![insights_2](https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/73fcdfa5-6a50-4113-9114-4e2d6e30b2a8)
 
 
 ## Description
