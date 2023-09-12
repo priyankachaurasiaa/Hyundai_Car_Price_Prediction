@@ -18,15 +18,6 @@ Our project serves two main objectives:
 
 ![dataset](https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/bb0fe2ed-9a27-41c9-8328-46235f085097)
 
-
-## Insights
- 
-![insights](https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/ce5f8237-3608-41f3-bff5-5fdea2e2a675)
-
-![insights_2](https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/73fcdfa5-6a50-4113-9114-4e2d6e30b2a8)
-
-<img width="591" alt="image" src="https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/ff29a56e-132c-41cb-8fa4-19e84d139745">
-
 ## Description
 
 - **Objective**: Our primary objective is to build a Linear Regression Machine Learning model to predict used car prices based on various features.
@@ -46,6 +37,14 @@ Our project serves two main objectives:
 - **Testing**: Predicted values for prices were generated and model accuracy was evaluated using R2 score and Adjusted R2 score (85% and 84%, respectively).
 
 - **Predicting**: The model can be used by buyers and sellers to predict the prices of pre-owned cars using hypothetical features.
+
+## Insights
+ 
+![insights](https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/ce5f8237-3608-41f3-bff5-5fdea2e2a675)
+
+![insights_2](https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/73fcdfa5-6a50-4113-9114-4e2d6e30b2a8)
+
+<img width="591" alt="image" src="https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/ff29a56e-132c-41cb-8fa4-19e84d139745">
 
 ## Conclusion
 
