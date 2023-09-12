@@ -3,7 +3,7 @@
 
 ## Car-price-regression-Used Hyundai Car Price Prediction
 
-Welcome to the Hyundai Car Price Prediction project, where we utilize advanced Machine Learning models to predict the prices of used Hyundai cars in the UK. Our predictions are based on various influential factors, including the car's model, year, mileage, fuel type, and engine size, all of which significantly impact the prices of used cars.
+With the help of Machine Learning model we have Predicted the used Hyundai car prices in UK including various Influential Factors such as Model, Year, Mileage, Fuel type, Engine Size which significantly impact the prices of used cars
 
 ## Objectives
 
@@ -13,7 +13,6 @@ Our project serves two main objectives:
 
 2. **Optimized Pricing for Sellers**: For sellers, our predictions enable them to set appropriate prices based on market trends, increasing their chances of a successful sale.
 
-This project contributes to a better understanding of used car pricing dynamics by analyzing data and uncovering the relationships between various factors and car prices. Valuable insights gained from this research can benefit both buyers and sellers, improving transparency in the used car market.
 
 ## Dataset
 
@@ -60,7 +59,13 @@ This project contributes to a better understanding of used car pricing dynamics 
 
 ## Challenges
 
-Throughout the project, we encountered several challenges, including transforming categorical values for regression compatibility, selecting the best regression algorithm, dealing with gridsearchCV challenges for hyperparameter tuning, identifying influential features using techniques like Pearson coefficient correlation and extra tree regressor, and learning HTML from scratch to develop a webpage showcasing the model's workings.
+- Transforming categorical values and removing unnecessary features for regression compatibility.
+
+- Finding the best regression algorithm and dealing with challenges in gridsearchCV for hyper parameter tuning.
+
+- Identifying influential features using techniques like Pearson coefficient correlation and extra tree regressor.
+
+- Learning HTML from scratch to develop a webpage showcasing the model's workings.
 
 ## Future Scope of the Model
 
@@ -75,5 +80,3 @@ The model holds great potential for future applications:
 - **Selling Assistance**: Sellers can use the model to set reasonable prices based on their car's characteristics, attracting potential buyers more effectively.
 
 - **Financial Planning**: Accurate price predictions aid in financial planning, allowing individuals to make informed decisions about selling their car and its impact on their overall financial situation.
-
-This Hyundai Car Price Prediction project opens up possibilities for data-driven decision-making and transparency in pricing, benefiting all stakeholders in the used car market.
