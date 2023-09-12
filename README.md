@@ -1,5 +1,3 @@
-<img width="595" alt="image" src="https://github.com/priyankachaurasiaa/Hyundai_Car_Price_Prediction/assets/134799886/13cbe437-0342-4db6-bd34-4ebb454aa5b7">
-
 # Hyundai_Car_Price_Prediction
 
 
