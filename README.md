@@ -72,15 +72,13 @@ Our project serves two main objectives:
 
 The model holds great potential for future applications:
 
-- **Empowering Buyers**: Buyers can estimate the fair market value for used cars based on input characteristics, helping them make informed decisions and negotiate better deals.
+- **Empowering Buyers:** This model empowers buyers by enabling them to assess the fair market value of used cars based on input characteristics. This valuable information equips buyers to make well-informed decisions and negotiate more effectively for better deals.
 
-- **Transparent Pricing**: The model provides standardized and objective pricing, reducing information asymmetry between sellers and buyers and preventing exploitation due to a lack of market knowledge.
+- **Transparent Pricing:** The model establishes transparency in pricing, offering standardized and objective valuation. By doing so, it mitigates information asymmetry between sellers and buyers, thus safeguarding against potential exploitation arising from a lack of market knowledge.
 
-- **Saving Time and Effort**: Buyers can quickly estimate fair price ranges without manual research, saving time and effort during the purchasing process.
+- **Efficiency in Decision-Making:** By leveraging this model, buyers can expedite the process of estimating fair price ranges without the need for extensive manual research. This not only saves time but also minimizes the effort involved in the car purchasing process.
 
-- **Selling Assistance**: Sellers can use the model to set reasonable prices based on their car's characteristics, attracting potential buyers more effectively.
-
-- **Financial Planning**: Accurate price predictions aid in financial planning, allowing individuals to make informed decisions about selling their car and its impact on their overall financial situation.
+- **Effective Selling Assistance:** Sellers can benefit from the model as well, utilizing it to establish competitive prices based on their car's unique characteristics. This approach enhances their ability to attract potential buyers more effectively and efficiently.
 
 ## Contact Information
 
